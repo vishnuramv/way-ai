@@ -1,2 +1,5 @@
 venv/
 models/
+.env
+
+way.py
